@@ -215,7 +215,7 @@ img {
 
     transition: transform .3s ease;
 
-   border-radius:50px;
+   border-radius:50%;
 }
 
 .brand:hover img {

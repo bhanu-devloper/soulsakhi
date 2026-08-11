@@ -214,6 +214,8 @@ img {
     object-fit: contain;
 
     transition: transform .3s ease;
+
+   border-radius:50px;
 }
 
 .brand:hover img {
